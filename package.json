@@ -1,7 +1,7 @@
 {
-  "name": "pec1",
+  "name": "pec3",
   "version": "1.0.0",
-  "description": "Proyecto para mi pec1 de HTML y CSS",
+  "description": "Proyecto para mi pec3 de HTML y CSS",
   "source": "src/index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rosersagreraUOC/PEC1_HTML_CSS_Eines.git"
+    "url": "git+https://github.com/rosersagreraUOC/PEC3-HTML-CSS.git"
   },
   "keywords": [
     "HTML",
@@ -24,9 +24,9 @@
   "author": "rosersagrera",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rosersagreraUOC/PEC1_HTML_CSS_Eines/issues"
+    "url": "https://github.com/rosersagreraUOC/PEC3-HTML-CSS/issues"
   },
-  "homepage": "https://github.com/rosersagreraUOC/PEC1_HTML_CSS_Eines#readme",
+  "homepage": "https://github.com/rosersagreraUOC/PEC3-HTML-CSS#readme",
   "devDependencies": {
     "npm-run-all": "^4.1.5",
     "parcel": "^2.12.0",
