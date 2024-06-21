@@ -2,21 +2,6 @@
 :root {
   --sans-serif-font: 'Lato', sans-serif;
 }
-
-/* .carousel {
-  position: relative;
-  width: 100%;
-  max-width: 1200px;
-  margin: auto;
-}
-.carousel img {
-  width: 100%;
-  display: none;
-}
-.carousel img.active {
-  display: block;
-} */
-
 *,
 *:after,
 *:before {
